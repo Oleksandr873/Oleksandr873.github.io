@@ -1,0 +1,102 @@
+img{
+    width: 100%;
+}
+body{
+       background: linear-gradient(to bottom, #302213, #301f0d);
+
+}
+.header {
+    height: 90vh;
+    background-image: url(top-img.jpg);
+    background-size: cover;
+    background-position: 50% 90%;
+    color: #ffffff;
+    font-family: "Montserrat", sans-serif;
+}
+.nav-link{
+    color: #ffffff;
+}
+    
+.logo{
+    width: 70px;
+}
+p{
+    font-size: 1.2em;
+}
+.btn-taste {
+    background-color: #C99E71;
+    color: #ffffff;
+    border: none;
+    border-radius: 0;
+    padding: 10px 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-variant: small-caps;
+    font-weight: 700;
+    font-family: "Handjet", serif;
+    font-family: "Comfortaa", sans-serif;
+    font-family: "Play", sans-serif;
+    letter-spacing: 1px;
+    font-size: 20px;
+    transition: 1s;
+}
+h2{
+    text-align: center;
+    font-family: "Montserrat", sans-serif;
+}
+.gradient-1{
+    padding-top: 30px;
+    padding-bottom: 30px;
+    background: linear-gradient(to bottom, #302213, #301f0d);
+}
+.h2-history{
+    color: #ffffff;
+}
+p{
+    color: aliceblue;
+
+}
+.my-card{
+    background-color:#251707;
+    padding: 10px;
+}
+.coffe-name{
+margin-bottom: 0;
+   font-family: "Playfair Display", serif;
+text-align: center;
+letter-spacing: 2px;
+text-shadow: 2px 2px 2px #C99E71;
+}
+.price{
+    margin-top: 0;
+ 
+  font-family: "Jost", sans-serif;
+border-bottom:1px solid #C99E71;
+
+}
+.h3-menu{
+    color: aliceblue;
+}
+.p-menu{
+   font-family: "Montserrat", sans-serif;
+   color: aliceblue; 
+}
+.h3-delivery{
+    color: aliceblue;
+}
+h3{
+    color: aliceblue;
+}
+li{
+    color: aliceblue;
+    font-size: 20px;
+}
+footer{
+    border-top: 1px solid #000;
+}
+
+.socio-link{
+    font-size: 1.2rem;
+    color: rgb(162, 161, 161);
+    margin: 2px;
+    text-decoration: none;
+}
